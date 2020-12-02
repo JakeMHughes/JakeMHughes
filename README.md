@@ -2,8 +2,6 @@
 
 [![JakeMHughes github stats](https://github-readme-stats.vercel.app/api?username=JakeMHughes&show_icons=true&theme=algolia)](https://github.com/JakeMHughes)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JakeMHughes&theme=algolia)](https://github.com/JakeMHughes)
-
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JakeMHughes&repo=DS-Playground&theme=algolia)](https://github.com/JakeMHughes/DS-Playground)
 
 [![Docker Hub Pulls](https://img.shields.io/docker/pulls/jakeizundead/ds-playground?color=%234518f5&label=Docker%20Pulls&logo=docker&logoColor=%23403d3d&style=for-the-badge)](https://hub.docker.com/r/jakeizundead/ds-playground)
