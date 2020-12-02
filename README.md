@@ -7,8 +7,7 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JakeMHughes&repo=DS-Playground&theme=algolia)](https://github.com/JakeMHughes/DS-Playground)
 
 [![Docker Hub Pulls](https://img.shields.io/docker/pulls/jakeizundead/ds-playground?color=%234518f5&label=Docker%20Pulls&logo=docker&logoColor=%23403d3d&style=for-the-badge)](https://hub.docker.com/r/jakeizundead/ds-playground)
-[![Docker Image Size](https://img.shields.io/docker/image-size/jakeizundead/ds-playground/vue?color=%234518f5&label=Image%20Size&logo=docker&logoColor=%23403d3d&style=for-the-badge)](https://hub.docker.com/r/jakeizundead/ds-playground)
-[![Layers](https://img.shields.io/microbadger/layers/jakeizundead/ds-playground?color=%234518f5&label=Layers&logo=docker&logoColor=%23403d3d&style=for-the-badge)](https://hub.docker.com/r/jakeizundead/ds-playground)
+[![Docker Image Size](https://img.shields.io/docker/image-size/jakeizundead/ds-playground?color=%234518f5&label=Image%20Size&logo=docker&logoColor=%23403d3d&style=for-the-badge)](https://hub.docker.com/r/jakeizundead/ds-playground)
 
 <!--
 **JakeMHughes/JakeMHughes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
